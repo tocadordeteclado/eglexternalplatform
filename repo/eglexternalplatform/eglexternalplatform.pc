@@ -1,0 +1,6 @@
+includedir=/usr/include/EGL
+
+Name: Interface de plataforma externa EGL.
+Description: Interface de plataforma externa EGL.
+Version: 1.1
+Cflags: -I${includedir}
